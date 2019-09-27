@@ -10,7 +10,7 @@ scrapy crawl comic
 
 .start_urls 漫画本体地址
 
-.is_all 是否下载全部 （False or True）
+.is_all 是否下载全部 （True or False）
 
 .start_order_down 下载的起始话
 
